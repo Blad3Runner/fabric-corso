@@ -1,0 +1,53 @@
+cod_cliente;ragione_sociale;partita_iva;nazione;area_commerciale;settore;termini_pagamento;stato;data_creazione
+10001;Mirros Petrochemical Co. Ltd;SA261271041;SA;Medio Oriente;Meccanica Generale;BB 90 gg DF;Attivo;29/12/2024
+10002;Pratar Oilfield Services LLC;AE855191139;AE;Medio Oriente;Oil & Gas;BB 90 gg DF;Attivo;09/04/2016
+10003;Belval Armaturen GmbH;DE934701862;DE;Europa;Meccanica Generale;RB 60 gg FM;Attivo;26/12/2019
+10004;Nerdal Offshore AS;NO914703353;NO;Europa;Eolico;BB 60 gg DF;Attivo;15/10/2019
+10005;Casulfer Impianti S.p.A.;IT91791838868;IT;Sud Italia;Petrolchimico;BB 90 gg DF;Attivo;25/10/2022
+10006;Valmir Caldareria S.r.l.;IT31290821878;IT;Nord Italia;Meccanica Generale;BB 90 gg DF;Attivo;02/10/2015
+10007;Ferdritar Industrie SAS;FR525334726;FR;Europa;Oil & Gas;RB 60 gg FM;Attivo;17/04/2016
+10008;Silbel Tubazioni S.r.l.;IT54519707022;italy;Nord Italia;Meccanica Generale;BB 120 gg DF;Attivo;20/06/2021
+10009;Morenner Tubazioni S.r.l.;IT99822120323;IT;Nord Italia;Eolico;RB 30 gg FM;Attivo;29/07/2023
+10010;Dridribrin Oilfield Services LLC;AE482903610;AE;Medio Oriente;Meccanica Generale;RB 60 gg FM;Attivo;22/03/2024
+10011;Quellun Impianti S.r.l.;IT40599727763;ITALIA;Centro Italia;Generazione Energia;RB 60 gg FM;Attivo;14/12/2017
+10012;Brinpra Impianti S.p.A.  ;IT26576317681;IT;Nord Italia;Generazione Energia;BB 90 gg DF;Attivo;13/12/2017
+10013;Tarquel Anlagenbau AG  ;DE318201014;DE;Europa;Oil & Gas;RB 60 gg FM;Attivo;21/07/2023
+10014;Castarver Tubazioni S.r.l.;IT97623946416;IT;Centro Italia;Oil & Gas;BB 60 gg DF;Attivo;13/05/2015
+10015;Testesor Petrochemical Co. Ltd;SA000981520;SA;Medio Oriente;Eolico;BB 60 gg DF;Attivo;15/10/2018
+10016;Galsil Impianti S.r.l.;IT22734842702;Italia;Centro Italia;Generazione Energia;BB 90 gg DF;Attivo;01/03/2021
+10017;Rosdalsil Oilfield Services LLC;AE330983638;AE;Medio Oriente;Eolico;RB 30 gg FM;Attivo;06/10/2016
+10018;Arsilen Tubazioni S.p.A.;IT77069490192;IT ;Centro Italia;Petrolchimico;BB 90 gg DF;Attivo;22/10/2017
+10019;Mirsen Group S.p.A.;IT38835758027;IT;Nord Italia;Oil & Gas;BB 60 gg DF;Attivo;06/01/2017
+10020;Zanros Impianti S.p.A.;IT58206379072;IT;Nord Italia;Petrolchimico;BB 60 gg DF;Attivo;19/02/2015
+10021;Tesmir Process B.V.;NL145033346;NL;Europa;Eolico;BB 60 gg DF;Attivo;12/06/2015
+10022;Nerfer Industrial Services Co. Ltd;SA299395199;SA;Medio Oriente;Generazione Energia;RB 30 gg FM;Attivo;19/08/2020
+10023;Targalros Energia S.r.l.;IT42687763158;IT;Sud Italia;Generazione Energia;BB 90 gg DF;Attivo;21/02/2016
+10024;Rosgal Energia S.p.A.;IT58124433861;IT;Sud Italia;Generazione Energia;BB 60 gg DF;Attivo;16/09/2015
+10025;Vermor Énergie SAS  ;FR736926021;FR;Europa;Generazione Energia;BB 90 gg DF;Attivo;11/03/2015
+10026;Mornercor Meccanica S.p.A.  ;IT06737264703;IT;Centro Italia;Oil & Gas;RB 30 gg FM;Attivo;15/05/2016
+10027;Lunval Valvole S.r.l.;IT75227668289;IT;Nord Italia;Oil & Gas;RB 60 gg FM;Attivo;26/05/2016
+10028;Lunvertar Valvole S.r.l.;IT21664149943;IT;Centro Italia;Generazione Energia;BB 60 gg DF;Attivo;20/05/2020
+10029;Arsil Petrochemical Co. Ltd;SA246711500;SA;Medio Oriente;Generazione Energia;RB 60 gg FM;Attivo;17/03/2018
+10030;Navsen Meccanica S.r.l.;IT61417869780;IT;Nord Italia;Oil & Gas;RB 60 gg FM;Attivo;28/07/2025
+10031;Dricor Valvole S.r.l.;IT42342583124;IT;;Meccanica Generale;BB 60 gg DF;Attivo;01/03/2025
+10032;Ferpra Impianti S.r.l.;IT97452501868;IT;Sud Italia;Eolico;RB 60 gg FM;Attivo;22/06/2023
+10033;Beldal Énergie SAS;FR187914890;FR;Europa;Eolico;BB 60 gg DF;Attivo;08/12/2019
+10034;Verval Petrochemical Co. Ltd;SA461630461;SA;Medio Oriente;Generazione Energia;RB 60 gg FM;Attivo;19/10/2016
+10035;Valteszan Meccanica S.p.A.;IT78416138817;IT;Nord Italia;Meccanica Generale;RB 60 gg FM;Attivo;28/11/2021
+10036;Envalsen Petrochemical Co. Ltd;SA121491231;SA;Medio Oriente;Generazione Energia;BB 60 gg DF;Attivo;26/08/2021
+10037;Bringal Oilfield Services LLC;AE319510005;AE;Medio Oriente;Oil & Gas;RB 30 gg FM;Attivo;28/04/2015
+10038;Quelul Tubazioni S.r.l.;IT73028918837;IT;Nord Italia;Oil & Gas;RB 60 gg FM;Attivo;11/05/2015
+10039;Senvermor Oilfield Services LLC  ;AE839489350;AE;Medio Oriente;Eolico;RB 30 gg FM;Attivo;05/07/2021
+10040;Casar Armaturen GmbH;DE878148966;DE;;Meccanica Generale;BB 60 gg DF;Attivo;08/01/2016
+10041;Brinsilcor Petroleum Industries LLC;AE633829983;AE;Medio Oriente;Oil & Gas;BB 60 gg DF;Attivo;01/08/2015
+10042;Vorferval Industrial Services Co. Ltd;SA652891242;SA;Medio Oriente;Petrolchimico;BB 90 gg DF;Attivo;22/12/2018
+10043;Nerarbrin Process B.V.;NL629709144;NL;Europa;Oil & Gas;RB 30 gg FM;Attivo;25/08/2020
+10044;Quelenval Impianti S.p.A.;IT60228941614;IT;Sud Italia;Meccanica Generale;RB 30 gg FM;Attivo;14/08/2021
+10045;Vorverpra Energie GmbH;DE027105214;DE;Europa;Meccanica Generale;BB 90 gg DF;Attivo;21/04/2022
+10046;Ferval Petroleum Industries LLC;AE891600727;AE;Medio Oriente;Meccanica Generale;BB 90 gg DF;Attivo;08/11/2021
+10047;Torvalen Energy GmbH;DE910775662;DE;Europa;Oil & Gas;RB 30 gg FM;Attivo;12/02/2019
+10048;Brinmor Offshore AS;NO884933611;NO;Europa;Oil & Gas;RB 30 gg FM;Attivo;10/09/2018
+10049;Calsenar Petroleum Industries LLC;AE368749969;AE;Medio Oriente;Petrolchimico;BB 60 gg DF;Attivo;15/12/2016
+10050;Quelvar Wind Energy Inc.;US867903298;US;;Eolico;BB 60 gg DF;Attivo;03/06/2017
+10051;Lunnerlun Valvole S.r.l.;IT40948294645;IT;Nord Italia;Oil & Gas;BB 90 gg DF;Attivo;02/09/2026
+10052;Tessilbel Valvole S.p.A.;IT54865503766;IT;Nord Italia;Petrolchimico;RB 60 gg FM;Attivo;07/09/2026

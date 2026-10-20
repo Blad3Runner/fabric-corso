@@ -1,0 +1,73 @@
+company_code,customer_code,customer_name,tax_id,country_code,region,industry_segment,payment_terms,customer_status,created_date
+FKIN,10001,Ulmoren Engineering Ltd,27ZVLAG2414A1Z6,IN,India West,Power Generation,NET30,Active,2017-05-11
+FKIN,10002,Corvor Heavy Industries Ltd,27LLCHP4082A1Z0,IN,India West,Wind,NET60,Active,2021-05-31
+FKIN,10003,Vorvernav Power Projects Ltd,27XTWAT7065A1Z0,IN,India West,General Engineering,NET60,Active,2023-09-13
+FKIN,10004,Ferqueldal Marine Pte Ltd,SG001644199,SG,Asia Pacific,Power Generation,NET90,Active,2020-01-14
+FKIN,10005,Fertesbrin Power Projects Pvt Ltd,27KQJEQ8646A1Z7,IN,India West,Wind,NET60,Active,2015-09-05
+FKIN,10006,Nercor Heavy Industries Pvt Ltd,27XSBLB5807A1Z8,IN,India South,Power Generation,NET60,Active,2023-07-17
+FKIN,10007,Arnaven Petrochemical Co. Ltd,SA090320965,SA,Middle East,Oil & Gas,NET30,Active,2022-09-09
+FKIN,10008,Argal Marine Pte Ltd,SG569732047,SG,Asia Pacific,Power Generation,NET30,Active,2022-01-01
+FKIN,10009,Beldri Heavy Industries Ltd,27FDJFD0777A1Z2,IN,India West,Oil & Gas,NET60,Active,2022-09-24
+FKIN,10010,Vordal Petroleum Industries LLC,AE610982343,AE,Middle East,General Engineering,NET45,Active,2015-05-03
+FKIN,10011,Nerquel Oilfield Services LLC,AE124488783,AE,Middle East,Oil & Gas,NET90,Active,2020-06-16
+FKIN,10012,Tesdal Engineering Pvt Ltd,27MLMKX5872A1Z3,IN,India South,Petrochemical,NET90,Active,2018-03-27
+FKIN,10013,Arveren Power Projects Pvt Ltd,27JHDCK1803A1Z3,IN,India South,General Engineering,NET90,Active,2022-07-02
+FKIN,10014,Valdrilun Power Projects Pvt Ltd,27WFQDZ0755A1Z8,IN,India South,Oil & Gas,NET60,Active,2020-03-13
+FKIN,10015,Navar Industrial Services Co. Ltd,SA853422482,SA,Middle East,Oil & Gas,NET30,Active,2018-02-17
+FKIN,10016,Quelbel Heavy Industries Pvt Ltd,27QTENJ7835A1Z2,IN,India South,Oil & Gas,NET45,Active,2016-10-31
+FKIN,10017,Pradrisil Engineering Ltd,27ZLPGM6046A1Z3,IN,India North,Oil & Gas,NET45,Active,2020-03-07
+FKIN,10018,Tesquellun Process Engineering Pte Ltd,SG871885543,SG,Asia Pacific,Petrochemical,NET90,Active,2018-03-15
+FKIN,10019,Casfer Power Projects Ltd,27ECDCH0771A1Z6,IN,India West,Wind,NET60,Active,2018-12-06
+FKIN,10020,Casner Petroleum Industries LLC,AE574912058,AE,Middle East,Petrochemical,NET45,Active,2023-06-14
+FKIN,10021,Prapramir Process Engineering Pte Ltd,SG162490072,SG,Asia Pacific,Wind,NET45,Active,2025-05-27
+FKIN,10022,Pragal Industrial Services Co. Ltd,SA026487082,SA,Middle East,Oil & Gas,NET90,Active,2022-01-15
+FKIN,10023,Valtes Petroleum Industries LLC,AE314759706,AE,Middle East,Power Generation,NET45,Active,2016-11-07
+FKIN,10024,Arquel Process Equipment Pvt Ltd,27AWMYF9785A1Z8,IN,India West,Power Generation,NET45,Active,2023-07-25
+FKIN,10025,Vertar Industrial Services Co. Ltd,SA453703533,SA,Middle East,Petrochemical,NET45,Active,2016-03-27
+FKIN,10026,Brincas Heavy Industries Ltd,27ANEPF1975A1Z2,IN,India North,Oil & Gas,NET90,Active,2018-02-18
+FKIN,10027,Belrossil Industrial Services Co. Ltd,SA693199921,SA,Middle East,Petrochemical,NET45,Active,2020-04-13
+FKIN,10028,Nerrosquel Marine Pte Ltd,SG469896340,SG,Asia Pacific,Power Generation,NET30,Active,2020-09-11
+FKIN,10029,Vercas Heavy Industries Pvt Ltd,27MUMNA4472A1Z4,IN,India West,Power Generation,NET90,Active,2022-06-17
+FKIN,10030,Ulzan Process Equipment Pvt Ltd,27DBYYZ6191A1Z7,IN,India South,Petrochemical,NET90,Active,2021-09-29
+FKIN,10031,Armir Engineering Ltd,27VLDEV7018A1Z5,IN,India West,Power Generation,NET30,Active,2017-02-17
+FKIN,10032,Brinzandal Power Projects Pvt Ltd,27XVTQU8333A1Z1,IN,India South,Oil & Gas,NET30,Active,2015-03-29
+FKIN,10033,Roscorbrin Engineering Pvt Ltd,27ETFGU9152A1Z0,IN,India West,Power Generation,NET60,Active,2015-01-22
+FKIN,10034,Valor Engineering Pvt Ltd,27SUCXY2785A1Z9,IN,India North,Oil & Gas,NET30,Active,2017-09-11
+FKIN,10035,Valtargal Petroleum Industries LLC,AE149037712,AE,Middle East,Oil & Gas,NET60,Active,2020-06-06
+FKIN,10036,Zanner Heavy Industries Pvt Ltd,27TBCUB7706A1Z5,IN,India West,Oil & Gas,NET90,Active,2019-12-17
+FKMX,10001,Caslunbrin Energía S.A. de C.V.,RTL415668Q84,MX,Mexico North,Wind,NET90,Active,2021-12-09
+FKMX,10002,Ferquel Industrial S.A. de C.V.,WVY758203PZX,MX,Mexico Central,Wind,NET45,Active,2020-09-23
+FKMX,10003,Galen Energía S.A. de C.V.,SWT322309X2X,MX,Mexico North,Oil & Gas,NET45,Active,2020-06-14
+FKMX,10004,Galfer Industrial S.A. de C.V.,RRS583142MY2,MX,Mexico North,Petrochemical,NET60,Active,2018-11-06
+FKMX,10005,Ferros Energy Inc.,US915484207,US,North America,Oil & Gas,NET90,Active,2018-09-09
+FKMX,10006,Belner Petroquímica S.A. de C.V.,VUG368187DJM,MX,Mexico North,Wind,NET60,Active,2024-08-07
+FKMX,10007,Navbelzan Energy Inc.,CA309752874,CA,North America,Oil & Gas,NET90,Active,2022-12-06
+FKMX,10008,Morrosfer Petroquímica S.A. de C.V.,KEM055921MX5,MX,Mexico Gulf,Oil & Gas,NET90,Active,2022-05-26
+FKMX,10009,Morvorbrin Pipeline Services Inc.,CA268774133,CA,North America,Oil & Gas,NET30,Active,2024-05-27
+FKMX,10010,Quelorner Energy LLC,US228815724,US,North America,Oil & Gas,NET45,Active,2019-04-13
+FKMX,10011,Orveror Fabrication Inc.,US399391340,US,North America,Wind,NET60,Active,2019-06-17
+FKMX,10012,Fertesvor Valve Co. LLC,US518120149,US,North America,Oil & Gas,NET30,Active,2016-02-17
+FKMX,10013,Mirdridal Petroquímica S.A. de C.V.,VBL780682HM5,MX,Mexico Gulf,Wind,NET60,Active,2021-01-08
+FKMX,10014,Verar Valve Co. LLC,US669095943,US,North America,Power Generation,NET90,Active,2017-10-18
+FKMX,10015,Drivalsil Industrial S.A. de C.V.,XPL126576N0G,MX,Mexico Central,Petrochemical,NET90,Active,2015-06-15
+FKMX,10016,Rosarzan Energy Inc.,CA204263162,CA,North America,Petrochemical,NET60,Active,2016-05-25
+FKMX,10017,Zanzan Industrial S.A. de C.V.,UJU2970740GG,MX,Mexico North,Oil & Gas,NET90,Active,2020-02-06
+FKMX,10018,Corgal Petroquímica S.A. de C.V.,GXD366625KK3,MX,Mexico Gulf,Oil & Gas,NET60,Active,2021-07-11
+FKMX,10019,Arcor Industrial S.A. de C.V.,NEK72966408P,MX,Mexico Central,Oil & Gas,NET90,Active,2019-07-04
+FKMX,10020,Galmirlun Industrial S.A. de C.V.,MNB3565769JU,MX,Mexico Gulf,Wind,NET45,Active,2016-04-08
+FKMX,10021,Vercor Energía S.A. de C.V.,QNW51337024W,MX,Mexico Gulf,Oil & Gas,NET30,Active,2024-10-07
+FKMX,10022,Corbelor Ductos S.A. de C.V.,TGB637122P8J,MX,Mexico Central,Oil & Gas,NET60,Active,2019-08-07
+FKMX,10023,Valmormir Valve Co. Inc.,US330192014,US,North America,Oil & Gas,NET45,Active,2016-06-07
+FKMX,10024,Dalgalul Energy Inc.,CA532060131,CA,North America,Wind,NET30,Active,2020-12-09
+FKMX,10025,Cordri Petroquímica S.A. de C.V.,LRY284576S8Y,MX,Mexico North,Oil & Gas,NET30,Blocked,2018-09-10
+FKMX,10026,Vermorar Ductos S.A. de C.V.,GHE512863GRE,MX,Mexico North,Wind,NET90,Active,2018-12-22
+FKMX,10027,Silbelval Valve Co. Inc.,US095704085,US,North America,Oil & Gas,NET60,Active,2020-11-09
+FKMX,10028,Morar Valve Co. LLC,US147159911,US,North America,Petrochemical,NET60,Active,2016-01-21
+FKMX,10029,Orgaldal Petroquímica S.A. de C.V.,VRG546338QQ5,MX,Mexico Gulf,Petrochemical,NET45,Active,2017-04-04
+FKMX,10030,Orlunpra Petroquímica S.A. de C.V.,CVN727214S0B,MX,Mexico Central,Petrochemical,NET30,Active,2021-09-01
+FKMX,10031,TORVALEN ENERGY GMBH,DE910775662,DE,Europe,Oil & Gas,NET90,Active,2018-11-08
+FKIN,10037,Brinmor Offshore AS,NO884933611,NO,Europe,Oil & Gas,NET30,Active,2017-06-22
+FKIN,10038,Calsenar Petroleum Industries LLC,AE368749969,AE,Middle East,Petrochemical,NET90,Active,2019-12-29
+FKMX,10032,CALSENAR PETROLEUM INDUSTRIES LLC,AE368749969,AE,Middle East,Petrochemical,NET60,Active,2018-03-10
+FKMX,10033,QUELVAR WIND ENERGY INC.,US867903298,US,North America,Wind,NET60,Active,2016-06-08
+FKMX,10034,Senmorvor Industrial S.A. de C.V.,GZM406337D7V,MX,Mexico North,Oil & Gas,NET45,Active,2026-09-02
